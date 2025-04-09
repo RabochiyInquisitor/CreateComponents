@@ -1,4 +1,4 @@
-os = 'Linux'
+osName = 'Windows'
 language = 'Русский'
 extension = '.tsx'
-framework = 'react'
+framework = 'react-native'
